@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning Python and Cloud (GCP) ...<br>🎯 Goals:</p>
+<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning Python and Cloud (GCP e AWS) ...<br>🎯 Goals:</p>
 <ul>
   <li>Desenvolver uma aplicação completa usando Python, Streamlit, Big Query e Cloud Storage</li>
   <li>Aprender sobre DevOps e CI/CD</li>
